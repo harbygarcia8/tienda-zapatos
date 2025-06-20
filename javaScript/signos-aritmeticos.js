@@ -54,10 +54,8 @@
     let PI = 3.1416
 
     PI = Math.PI
-
     
-
-    console.log(PI)
+    console.log(PI)    
 
 
 
